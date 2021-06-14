@@ -11,7 +11,9 @@ When you download and use our mobile applications, we don’t require you to pro
 Our third-party partners, and their privacy policies are as follows:
 AdMob by Google and their partners
 AdMob by Google is provided by Google Inc. (US)
+
 http://www.google.com/policies/privacy/
+
 https://support.google.com/admob/answer/6128543?hl=en
 
 We comply with the Children’s Online Privacy Protection Act.
